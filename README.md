@@ -1,8 +1,10 @@
-# React + Vite
+# Counter App
+This project might seem simple, but it helped me dive into key React topics like:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✅ JSX and functional components
+✅ Using useState for managing state
+✅ Passing data between components through props
+✅ Handling user input and events
+✅ Creating a dynamic and responsive UI with Tailwind CSS
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
